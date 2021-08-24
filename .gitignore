@@ -1,0 +1,4 @@
+# Project exclude paths
+/borisov/target/
+/spring-app1/target/
+/target/
